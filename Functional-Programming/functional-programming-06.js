@@ -1,3 +1,4 @@
+//Curry
 const _ = require('lodash')
 
 let dragon = (name, size, element) =>
