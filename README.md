@@ -1,8 +1,6 @@
 **JavaScript-Practice**
 ==================
 
-*This repository is for me to familiar concept of javascript*
-
 **NOTE:** 
 This repository is for me to familiar concept in javascript.And all source code are packaged to js files which in this repository are from 
 
